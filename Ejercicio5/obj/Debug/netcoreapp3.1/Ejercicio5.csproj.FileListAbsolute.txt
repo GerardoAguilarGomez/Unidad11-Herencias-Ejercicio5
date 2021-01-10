@@ -1,0 +1,13 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache
